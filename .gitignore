@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+encrypted.bin
+decrypted.txt
+.DS_Store
